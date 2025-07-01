@@ -6,6 +6,8 @@
  * license: PUBLIC_DOMAIN
  */
 
+"Zero is not necessarily the same thing as infinity." - karbytes
+
 The following is an abridged version of the ChatGPT-karbytes chat log at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/chatgpt_karbytes_27june2025_p0.txt
 
 * * *
