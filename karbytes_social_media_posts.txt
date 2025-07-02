@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 01_JULY_2025
+ * date: 02_JULY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -171,3 +171,21 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_01july2025/
 On 01_JULY_2025 at approximately 5:30PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01july2025/
+
+* * *
+
+On 01_JULY_2025 at approximately 10:30PM Pacific Standard Time, karbytes unpinned the following karbytes-created web page from karbytes' Bluesky dot Com page, karbytes' Twitter dot Com page, karbytes' Minds dot Com page, and karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/omniscience_might_not_exist/
+
+* * *
+
+On 02_JULY_2025 at approximately 2:00AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/heat_death_of_a_universe/
+
+* * *
+
+On 02_JULY_2025 at approximately 2:00AM Pacific Standard Time, karbytes pinned the following karbytes-created web page to the top of the social media post feed of karbytes' Bluesky dot Com page, karbytes' Twitter dot Com page, karbytes' Minds dot Com page, and karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/heat_death_of_a_universe/
