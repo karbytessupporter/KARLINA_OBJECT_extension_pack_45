@@ -1,0 +1,13 @@
+/**
+ * file: journal_karbytes_03july2025_p0.txt
+ * type: plain-text
+ * date: 03_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Between the points in karbytes' timeline labeled 11:59PM Pacific Standard Time on 02_JULY_2025 and 11:59PM Pacific Standard Time on 03_JULY_2025 was when karbytes creates one M_DISC backup of karbytes as karbytes is configured at 11:59PM Pacific Standard Time on 03_JULY_2025 (for the sake of karbytes having a read-only backup of karbytes while karbytes2025_18 is not yet in its final draft form).
+
+For more information on what the version of karbytes named karbytes2025_18 entails, visit the following web page: https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_18/
+
+A photographic image of the aforementioned intermediary backup of karbytes is available at the following web address: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/intermediary_mdisc_backup_of_karbytes_as_karbytes_is_configured_at_12am_pst_on_04july2025.jpg
