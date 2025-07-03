@@ -2,7 +2,7 @@
  * file: sound_track_looper_two.js
  * type: JavaScript
  * author: karbytes
- * date: 26_JANUARY_2025
+ * date: 04_APRIL_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -20,29 +20,29 @@ function add_another_sound_file_menu() {
 		// Generate a time-stamped message string containing the (approximate) number of milliseconds which have elapsed since the Unix Epoch (i.e. 12:00AM Coordinated Universal Time on 01_JANUARY_1970).
 		const message = "The add_another_sound_file_menu() button was clicked at time: " + generate_time_stamp();
 
-        let sound_file_menu_area = document.getElementById("sound_file_menu_area");
+        	let sound_file_menu_area = document.getElementById("sound_file_menu_area");
 
-        // Create a new paragraph (i.e. <p>) element.
-        let new_paragraph = document.createElement("p");
+        	// Create a new paragraph (i.e. <p>) element.
+        	let new_paragraph = document.createElement("p");
 
-        // Create a new menu (i.e. <select>) element.
-        let new_select = document.createElement("select");
-        new_select.id = "sound_file_menu_" + track_count;
+        	// Create a new menu (i.e. <select>) element.
+        	let new_select = document.createElement("select");
+        	new_select.id = "sound_file_menu_" + track_count;
 
-        // Populate the <select> with menu options.
-        new_select.innerHTML = get_menu_options();
+       		// Populate the <select> with menu options.
+        	new_select.innerHTML = get_menu_options();
 
-        // Append the <select> to the <p>.
-        new_paragraph.appendChild(new_select);
+        	// Append the <select> to the <p>.
+        	new_paragraph.appendChild(new_select);
 
-        // Append the <p> to the menu area.
-        sound_file_menu_area.appendChild(new_paragraph);
+        	// Append the <p> to the menu area.
+        	sound_file_menu_area.appendChild(new_paragraph);
 
-        // Increment the track count by one.
-        track_count += 1;
+        	// Increment the track count by one.
+        	track_count += 1;
 
-        // Append a new paragraph element to the DIV element on the respective web page whose ID is "console_display".
-        document.getElementById("console_display").innerHTML += (('<' + 'p' + '>') + message + ('<' + '/' + 'p' + '>'));
+        	// Append a new paragraph element to the DIV element on the respective web page whose ID is "console_display".
+        	document.getElementById("console_display").innerHTML += (('<' + 'p' + '>') + message + ('<' + '/' + 'p' + '>'));
 	}
 	catch(e) {
 		console.log("An exception to normal functioning occurred during the runtime of add_another_sound_file_menu(): " + e);
@@ -88,7 +88,10 @@ function generate_time_stamp() {
  * @return {String} a sequence of characters representing some natural number of OPTIONs inside of a SELECT menu.
  */
 function get_menu_options() {
-    let file_path_root = 'http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_TWO/';
+    // let file_path_root = 'http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_TWO/';
+    let file_path_root = 'https://raw.githubusercontent.com/karlinarayberinger/KARBYTES_BLOG_APPS_github_hosted_website/main/SOUND_TRACK_LOOP_COUNTER_TWO/';
+    // let file_path_root = 'https://github.com/karlinarayberinger/KARBYTES_BLOG_APPS_github_hosted_website/tree/main/SOUND_TRACK_LOOP_COUNTER_TWO/';
+    // let file_path_root = '/';
     let HTML_string = '';
     
     // Define the list of sound eleven sound files and their display names.
