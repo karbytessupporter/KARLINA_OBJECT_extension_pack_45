@@ -1554,78 +1554,22 @@ E_vac = p_vac(x) * ∫_M sqrt(g(x)) * (d^3)*x = p_vac * V
 
 [end preformatted_text]
 
-𝐸
-vac
-=
-𝜌
-vac
-∫
-𝑀
-𝑔
- 
-𝑑
-3
-𝑥
-=
-𝜌
-vac
-⋅
-𝑉
-E 
-vac
-​
- =ρ 
-vac
-​
- ∫ 
-M
-​
-  
-g
-​
- d 
-3
- x=ρ 
-vac
-​
- ⋅V
 So the total vacuum energy is proportional to the spatial volume.
 
 🔁 2. Case Analysis Based on Spatial Volume
+
 🟩 Case A: Finite Spatial Volume
+
 Example: Closed universe with 3-sphere geometry
 
-𝑀
 M is compact and has finite volume
 
-𝑉
-=
-∫
-𝑀
-𝑔
- 
-𝑑
-3
-𝑥
-<
-∞
-⇒
-𝐸
-vac
-<
-∞
-V=∫ 
-M
-​
-  
-g
-​
- d 
-3
- x<∞⇒E 
-vac
-​
- <∞
+[preformatted_text]
+
+V = ∫_M sqrt(g(x)) * (d^3)*x < ∞ ⇒ E_vac < ∞
+
+[end preformatted_text]
+
 ✅ Result: Finite total vacuum energy
 
 🟥 Case B: Infinite Spatial Volume
