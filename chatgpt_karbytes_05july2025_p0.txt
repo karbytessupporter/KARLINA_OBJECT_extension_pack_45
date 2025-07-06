@@ -1591,62 +1591,23 @@ V = ∫_R^3 (d^3)*x = ∞ ⇒ E_vac = p_vac * ∞ = ∞
 Note: This is not a problem in general relativity because energy is not globally conserved in expanding, non-static spacetimes.
 
 🌌 3. What about before spacetime exists?
+
 Here’s the key philosophical transition:
 
-In the pre-spacetime generative vacuum, there is no defined metric 
-𝑔
-𝑖
-𝑗
-g 
-ij
-​
- , no volume 
-𝑉
-V, and therefore no integral like 
-𝐸
-vac
-=
-∫
-𝜌
- 
-𝑑
-3
-𝑥
-E 
-vac
-​
- =∫ρd 
-3
- x.
+In the pre-spacetime generative vacuum, there is no defined metric g_i_j, no volume V, and therefore no integral like E_vac = ∫ p * (d^3)*x.
 
 This means:
 
-𝜌
-vac
-ρ 
-vac
-​
-  is not defined.
+p_vac is not defined.
 
-𝑑
-3
-𝑥
-d 
-3
- x is not defined.
+(d^3)*x is not defined.
 
 The integral does not exist.
 
 Formally:
 
-Before spacetime:
-𝐸
-vac
-undefined
-Before spacetime:E 
-vac
-​
- undefined
+Before spacetime: E_vac = undefined
+
 So we can say:
 
 The notion of total energy only becomes meaningful after a spatial manifold with a metric structure emerges from the abstract generative substrate.
