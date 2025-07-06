@@ -1573,45 +1573,19 @@ V = ∫_M sqrt(g(x)) * (d^3)*x < ∞ ⇒ E_vac < ∞
 ✅ Result: Finite total vacuum energy
 
 🟥 Case B: Infinite Spatial Volume
+
 Example: Flat, open universe
 
-𝑀
 M is non-compact
 
-𝑉
-=
-∫
-𝑅
-3
-𝑑
-3
-𝑥
-=
-∞
-⇒
-𝐸
-vac
-=
-𝜌
-vac
-⋅
-∞
-=
-∞
-V=∫ 
-R 
-3
- 
-​
- d 
-3
- x=∞⇒E 
-vac
-​
- =ρ 
-vac
-​
- ⋅∞=∞
+[R^3 denotes a three-dimensional vector space whose bounds encompass all real numbers.]
+
+[preformatted_text]
+
+V = ∫_R^3 (d^3)*x = ∞ ⇒ E_vac = p_vac * ∞ = ∞
+
+[end preformatted_text]
+
 ❌ Result: Infinite total vacuum energy
 
 Note: This is not a problem in general relativity because energy is not globally conserved in expanding, non-static spacetimes.
