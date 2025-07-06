@@ -1691,49 +1691,25 @@ This repulsive effect:
 - Is observed through Type Ia supernovae and cosmic microwave background measurements.
 
 🌌 3. Dark Energy in ΛCDM Cosmology
+
 In the standard model of cosmology (ΛCDM), the total energy density of the universe is composed of:
 
-𝜌
-total
-=
-𝜌
-matter
-+
-𝜌
-radiation
-+
-𝜌
-vacuum
-ρ 
-total
-​
- =ρ 
-matter
-​
- +ρ 
-radiation
-​
- +ρ 
-vacuum
-​
+[preformatted_text]
+
+𝜌_total = 𝜌_matter + 𝜌_radiation + 𝜌_vacuum
+
+[end preformatted_text]
  
 And the vacuum energy density (a.k.a. dark energy) dominates:
 
-𝜌
-vac
-≈
-0.7
-×
-𝜌
-total
-ρ 
-vac
-​
- ≈0.7×ρ 
-total
-​
- 
+[Note that "≈" in the following expression denotes "approximately equals" and is not the same symbol as "=" (although that "approximately equals" symbol might appear to be identical to the "equals" symbol due to text formatting issues).]
 
+[preformatted_text]
+
+𝜌_vac ≈ 0.7 × 𝜌_total
+
+[end preformatted_text]
+ 
 This is inferred from cosmic acceleration.
 
 Hence:
@@ -1741,6 +1717,7 @@ Hence:
 Dark energy is modeled as a cosmological constant, which is in turn treated as a manifestation of vacuum energy.
 
 🧮 4. Total Vacuum Energy in Terms of Λ
+
 Let’s now plug this into our previous integral:
 
 𝐸
