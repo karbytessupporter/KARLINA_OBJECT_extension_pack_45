@@ -1720,51 +1720,12 @@ Dark energy is modeled as a cosmological constant, which is in turn treated as a
 
 Let’s now plug this into our previous integral:
 
-𝐸
-vac
-=
-∫
-𝑀
-𝜌
-vac
- 
-𝑔
- 
-𝑑
-3
-𝑥
-=
-(
-Λ
-𝑐
-2
-8
-𝜋
-𝐺
-)
-⋅
-𝑉
-E 
-vac
-​
- =∫ 
-M
-​
- ρ 
-vac
-​
-  
-g
-​
- d 
-3
- x=( 
-8πG
-Λc 
-2
- 
-​
- )⋅V
+[preformatted_text]
+
+E_vac = ∫_M p_vac * sqrt(g) * (d^3)*x = ((Λ * (c^2)) / (8 * 𝜋 * 𝐺)) * V
+
+[end preformatted_text]
+
 This shows clearly:
 
 The total vacuum energy is directly proportional to:
@@ -1773,51 +1734,22 @@ The cosmological constant
 
 The volume of space
 
-If 
-Λ
->
-0
-Λ>0 and space is infinite:
+If Λ > 0 and space is infinite:
 
-𝐸
-vac
-=
-∞
-E 
-vac
-​
- =∞
+[preformatted_text]
+
+E_vac = ∞
+
+[end preformatted_text]
+
 If space is finite (say, a 3-sphere):
 
-𝐸
-vac
-=
-(
-Λ
-𝑐
-2
-8
-𝜋
-𝐺
-)
-⋅
-𝑉
-finite
-<
-∞
-E 
-vac
-​
- =( 
-8πG
-Λc 
-2
- 
-​
- )⋅V 
-finite
-​
- <∞
+[preformatted_text]
+
+E_vac = ((Λ * (c^2)) / (8 * 𝜋 * 𝐺)) * V_finite < ∞
+
+[end preformatted_text]
+
 🧩 5. Why Λ is so Mysterious (The Cosmological Constant Problem)
 ⚠️ Quantum Field Theory predicts:
 𝜌
