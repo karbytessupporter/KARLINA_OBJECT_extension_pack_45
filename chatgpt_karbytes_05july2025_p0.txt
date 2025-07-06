@@ -2261,7 +2261,7 @@ pip install graphviz
 
 🧠 2. Create the Python script
 
-Save the following code as a Python file, e.g., generate_vacuum_energy_flow.py:
+Save the following code as a Python file, e.g., generate_vacuum_energy_flow.py: [code_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/generate_vacuum_energy_flow.py]
 
 [python]
 
@@ -2462,7 +2462,7 @@ pip install graphviz
 
 Once the above steps are done in the terminal, open your text editor (e.g., Gedit, VS Code, or Nano) and paste in the Python code:
 
-generate_vacuum_energy_flow.py
+generate_vacuum_energy_flow.py: [code_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/generate_vacuum_energy_flow.py]
 
 [python]
 
