@@ -2167,11 +2167,6 @@ dot.render(output_path, cleanup=False)
 # Return path to rendered PNG
 output_path + '.png'
 
-Analyzed
-python
-Always show details
-
-Copy
 import graphviz
 
 # Re-create the graph after environment reset
