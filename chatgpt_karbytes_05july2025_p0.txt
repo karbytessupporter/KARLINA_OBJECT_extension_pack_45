@@ -1751,33 +1751,26 @@ E_vac = ((Λ * (c^2)) / (8 * 𝜋 * 𝐺)) * V_finite < ∞
 [end preformatted_text]
 
 🧩 5. Why Λ is so Mysterious (The Cosmological Constant Problem)
+
 ⚠️ Quantum Field Theory predicts:
-𝜌
-vac
-QFT
-∼
-10
-120
-×
-𝜌
-vac
-obs
-ρ 
-vac
-QFT
-​
- ∼10 
-120
- ×ρ 
-vac
-obs
-​
+
+[The tilde operator "~" is synonymous with the "approximately equals" operator in the following expression.]
+
+p_vac_QFT: vacuum energy density as predicted by Quantum Field Theory (QFT).
+
+p_vac_obs: vacuum energy density inferred from astronomical observations, such as the accelerated expansion of the universe.
+
+[preformatted_text]
+
+p_vac_QFT ~ 10^120 * p_vac_obs
+
+[end preformatted_text]
  
 This is the infamous 120-orders-of-magnitude discrepancy between:
 
-What QFT naively predicts from zero-point fluctuations, and
+- What QFT naively predicts from zero-point fluctuations, and
 
-What we actually observe from cosmology.
+- What we actually observe from cosmology.
 
 This is known as the cosmological constant problem, and it remains one of the biggest unsolved problems in physics.
 
