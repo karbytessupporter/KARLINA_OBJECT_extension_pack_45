@@ -1775,15 +1775,16 @@ This is the infamous 120-orders-of-magnitude discrepancy between:
 This is known as the cosmological constant problem, and it remains one of the biggest unsolved problems in physics.
 
 🧭 6. Physical & Metaphysical Implications
+
 The vacuum appears to contain latent energy even in the absence of particles or heat.
 
 This energy:
 
-warps spacetime
+- warps spacetime
 
-expands the universe
+- expands the universe
 
-dominates the cosmic energy budget
+- dominates the cosmic energy budget
 
 Yet:
 
@@ -1798,93 +1799,22 @@ or the entanglement structure of quantum fields,
 or even anthropic selection in a multiverse.
 
 🧾 Summary of Formalism
-Quantity	Expression	Interpretation
-Vacuum energy density	
-𝜌
-vac
-=
-Λ
-𝑐
-2
-8
-𝜋
-𝐺
-ρ 
-vac
-​
- = 
-8πG
-Λc 
-2
- 
-​
- 	Local property of spacetime
-Total vacuum energy	
-𝐸
-vac
-=
-𝜌
-vac
-⋅
-𝑉
-E 
-vac
-​
- =ρ 
-vac
-​
- ⋅V	Global energy — finite or infinite
-Einstein field equation	
-𝐺
-𝜇
-𝜈
-+
-Λ
-𝑔
-𝜇
-𝜈
-=
-8
-𝜋
-𝐺
-𝑐
-4
-𝑇
-𝜇
-𝜈
-G 
-μν
-​
- +Λg 
-μν
-​
- = 
-c 
-4
- 
-8πG
-​
- T 
-μν
-​
- 	Geometry shaped by matter + vacuum
-Cosmological constant problem	
-𝜌
-vac
-QFT
-≫
-𝜌
-vac
-obs
-ρ 
-vac
-QFT
-​
- ≫ρ 
-vac
-obs
-​
- 	Mystery of scale mismatch
+
+[Note that the symbol ">>" means "much greater than" in the following table of expressions.]
+
+[preformatted_text]
+
+Quantity ---------------------------------| Expression ---------------------------------------------------------| Interpretation
+
+Vacuum energy density --------------------| p_vac = ((Λ * (c^2)) / (8 * 𝜋 * 𝐺)) --------------------------------| Local property of spacetime
+
+Total vacuum energy ----------------------| E_vac = p_vac * V --------------------------------------------------| Global energy — finite or infinite
+
+Einstein field equation ------------------| 𝐺_𝜇_𝜈 + (Λ * 𝑔_𝜇_𝜈) = (8 * 𝜋 * 𝐺) * (1 / (𝑐 ^ 4)) * T_μ_ν ----------| Geometry shaped by matter + vacuum
+
+Cosmological constant problem ------------| p_vac_QFT >> p_vac_obs ---------------------------------------------| Mystery of scale mismatch
+
+[end preformatted_text]
 
 🧠 Final Thought
 The cosmological constant 
