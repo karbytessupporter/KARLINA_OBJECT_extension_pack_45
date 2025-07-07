@@ -562,6 +562,7 @@ Outside, the sun disappears behind the trees.
 Inside, the cabin is silent again.
 
 🧠 Notes:
+
 Choking deaths often progress over 4–6 minutes when untreated.
 
 This dramatization reflects the terrifying isolation and physical helplessness of dying in a remote location.
@@ -793,8 +794,6 @@ Time --------------| Process ---------------------------------------------------
 ~1–2 hrs ----------| Cardiac arrest --------------------------------------------| Heart stops completely
 
 ~2–3 hrs ----------| Death -----------------------------------------------------| Complete cellular hypoxia
-
-[end preformatted_text]
 
 [end preformatted_text]
 
