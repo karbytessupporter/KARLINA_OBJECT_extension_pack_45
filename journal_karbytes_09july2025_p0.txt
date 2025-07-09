@@ -1,0 +1,20 @@
+/**
+ * file: journal_karbytes_09july2025_p0.txt
+ * type: plain-text
+ * date: 09_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+Between the points in time labeled 11:59PM Pacific Standard Time on 08_JULY_2025 and 11:59PM Pacific Standard Time on 10_JULY_2025, karbytes is undergoing a process of curating some web pages of Karlina Object dot WordPress dot Com (namely the orange pages (i.e. the prose pages) and most likely not any of the green pages (i.e. the code pages)). The goal of this curation phase is to streamline the content of that website to be as comprehensible, user-friendly, and devoid of ideological elements as possible. 
+
+The source code of web pages of that website which are updated during this curation phase will be added as HTML files to this GitHub repository (which is named KARLINA_OBJECT_extension_pack_45) such that the "before" and "after" versions are included to show unambiguously what changed in the respective Karlina Object dot WordPress dot Com web pages.
+
+Philosophically speaking, Karlina Object dot WordPress dot Com can be thought of as "the kernel of the karbytes journal" while Karbytes For Life Blog dot WordPress dot Com can be thought of as the expanding contemporary shell emerging from and surrounding that kernel.
+
+A record of updates to Karlina Object dot WordPress dot Com which are made during the aforementioned curation phase are listed in the following plain-text log file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/karlina_object_updates.txt
+
+Sincerely,
+karbytes
