@@ -80,238 +80,246 @@ file_29: beats_machine.js // 0.02 megabytes
 
 file_30: beats_machine.html // 0.00 megabytes
 
+Directory: KARBYTES_BLOG_APPS/JULIA_SET_FRACTAL_ANIMATION
+
+file_31: julia_set_fractal_animation.html // 0.00 megabytes
+
+file_32: julia_set_fractal_animation.js // 0.01 megabytes
+
+file_33: julia_set_fractal_animation.css // 0.00 megabytes
+
 Directory: KARBYTES_BLOG_APPS/TRIANGLE_GRAPHING_TWO
 
-file_31: karbytes_aesthetic.css // 0.00 megabytes
+file_34: karbytes_aesthetic.css // 0.00 megabytes
 
-file_32: triangle_graphing_two.html // 0.00 megabytes
+file_35: triangle_graphing_two.html // 0.00 megabytes
 
-file_33: triangle_graphing_two.js // 0.04 megabytes
+file_36: triangle_graphing_two.js // 0.04 megabytes
 
 Directory: KARBYTES_BLOG_APPS/SOUND_TRACK_LOOP_COUNTER_THREE
 
-file_34: pig_gorl_18january2025_p0.mp3 // 0.25 megabytes
+file_37: pig_gorl_18january2025_p0.mp3 // 0.25 megabytes
 
-file_35: karbytes_aesthetic.css // 0.00 megabytes
+file_38: karbytes_aesthetic.css // 0.00 megabytes
 
-file_36: för_dem_mitt_blod_setherial_released_1996_downloaded_by_karbytes_on_28july2024.mp3 // 3.83 megabytes
+file_39: för_dem_mitt_blod_setherial_released_1996_downloaded_by_karbytes_on_28july2024.mp3 // 3.83 megabytes
 
-file_37: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p2.mp3 // 1.83 megabytes
+file_40: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p2.mp3 // 1.83 megabytes
 
-file_38: input_audio_source_karbytes_01november2024.mp3 // 0.09 megabytes
+file_41: input_audio_source_karbytes_01november2024.mp3 // 0.09 megabytes
 
-file_39: pig_gorl_12july2024_p1.mp3 // 0.74 megabytes
+file_42: pig_gorl_12july2024_p1.mp3 // 0.74 megabytes
 
-file_40: 432_hz_|_dna_repair_|_powerful_third_eye_opening_binaural_beat_|_relaxation_sleep_music_7_chakras_by_infinite_waters_ralf_smart_[released:_24may2017].mp3 // 12.89 megabytes
+file_43: 432_hz_|_dna_repair_|_powerful_third_eye_opening_binaural_beat_|_relaxation_sleep_music_7_chakras_by_infinite_waters_ralf_smart_[released:_24may2017].mp3 // 12.89 megabytes
 
-file_41: guitar_karbytes_14april2025.mp3 // 3.48 megabytes
+file_44: guitar_karbytes_14april2025.mp3 // 3.48 megabytes
 
-file_42: sound_track_looper_three.js // 0.02 megabytes
+file_45: sound_track_looper_three.js // 0.02 megabytes
 
-file_43: horrors_of_a_withered_dimension_by_bloodstained_ground_released_2022_downloaded_by_karbytes_21february2025.mp3 // 4.85 megabytes
+file_46: horrors_of_a_withered_dimension_by_bloodstained_ground_released_2022_downloaded_by_karbytes_21february2025.mp3 // 4.85 megabytes
 
-file_44: the_conjuring_by_megadeth_originally_released_1986_downloaded_by_karbytes_20february2025.mp3 // 8.73 megabytes
+file_47: the_conjuring_by_megadeth_originally_released_1986_downloaded_by_karbytes_20february2025.mp3 // 8.73 megabytes
 
-file_45: instagram_karbytes_28_october_2023_part_1.mp3 // 0.70 megabytes
+file_48: instagram_karbytes_28_october_2023_part_1.mp3 // 0.70 megabytes
 
-file_46: instagram_karbytes_13_june_2023_part_1.mp3 // 0.87 megabytes
+file_49: instagram_karbytes_13_june_2023_part_1.mp3 // 0.87 megabytes
 
-file_47: cafe_restaurant_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 4.58 megabytes
+file_50: cafe_restaurant_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 4.58 megabytes
 
-file_48: pig_gorl_02_november_2023_part_0.mp3 // 0.79 megabytes
+file_51: pig_gorl_02_november_2023_part_0.mp3 // 0.79 megabytes
 
-file_49: karbytes_darknet_beats_generator_sample_03mar2025.mp3 // 0.56 megabytes
+file_52: karbytes_darknet_beats_generator_sample_03mar2025.mp3 // 0.56 megabytes
 
-file_50: memories_of_children_david_darling_healing_music_project_radiance_2003_downloaded_by_karbytes_on_13june2024.mp3 // 7.98 megabytes
+file_53: memories_of_children_david_darling_healing_music_project_radiance_2003_downloaded_by_karbytes_on_13june2024.mp3 // 7.98 megabytes
 
-file_51: motmenneske_by_solefald_released_1996_downloaded_by_karbytes_24june2025.mp3 // 6.45 megabytes
+file_54: motmenneske_by_solefald_released_1996_downloaded_by_karbytes_24june2025.mp3 // 6.45 megabytes
 
-file_52: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p1.mp3 // 2.36 megabytes
+file_55: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p1.mp3 // 2.36 megabytes
 
-file_53: diamond_(original_mix)_by_giada_released_2002_downloaded_by_karbytes_26march2025.mp3 // 15.06 megabytes
+file_56: diamond_(original_mix)_by_giada_released_2002_downloaded_by_karbytes_26march2025.mp3 // 15.06 megabytes
 
-file_54: alviso_slough_san_jose_california_09july2024.mp3 // 0.17 megabytes
+file_57: alviso_slough_san_jose_california_09july2024.mp3 // 0.17 megabytes
 
-file_55: pig_boi_24_june_2023.mp3 // 1.03 megabytes
+file_58: pig_boi_24_june_2023.mp3 // 1.03 megabytes
 
-file_56: elevenlabs_creator_voice_clone_karbytes_generated_text_to_speech_output_05aug2024.mp3 // 3.72 megabytes
+file_59: elevenlabs_creator_voice_clone_karbytes_generated_text_to_speech_output_05aug2024.mp3 // 3.72 megabytes
 
-file_57: plaintive_droning_by_karbytes_17march2025_p3.mp3 // 0.20 megabytes
+file_60: plaintive_droning_by_karbytes_17march2025_p3.mp3 // 0.20 megabytes
 
-file_58: cafe_restaurant_(misophonia_edition)_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_25january2025.mp3 // 4.58 megabytes
+file_61: cafe_restaurant_(misophonia_edition)_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_25january2025.mp3 // 4.58 megabytes
 
-file_59: pig_gorl_03_november_2023_part_0.mp3 // 0.50 megabytes
+file_62: pig_gorl_03_november_2023_part_0.mp3 // 0.50 megabytes
 
-file_60: pig_gorl_02_april_2024_part_1.mp3 // 0.55 megabytes
+file_63: pig_gorl_02_april_2024_part_1.mp3 // 0.55 megabytes
 
-file_61: instagram_karbytes_12_march_2024_post_154.mp3 // 0.21 megabytes
+file_64: instagram_karbytes_12_march_2024_post_154.mp3 // 0.21 megabytes
 
-file_62: sound_track_looper_three.html // 0.00 megabytes
+file_65: sound_track_looper_three.html // 0.00 megabytes
 
-file_63: guitar_karbytes_14june2025.mp3 // 1.25 megabytes
+file_66: guitar_karbytes_14june2025.mp3 // 1.25 megabytes
 
-file_64: pig_gorl_08july2024_part_0.mp3 // 0.63 megabytes
+file_67: pig_gorl_08july2024_part_0.mp3 // 0.63 megabytes
 
-file_65: pig_gorl_08july2024_part_1.mp3 // 0.54 megabytes
+file_68: pig_gorl_08july2024_part_1.mp3 // 0.54 megabytes
 
-file_66: pig_gorl_31_october_2023_part_0.mp3 // 0.50 megabytes
+file_69: pig_gorl_31_october_2023_part_0.mp3 // 0.50 megabytes
 
-file_67: unintentional_asmr_senior_japanese_handcrafted_fountain_pen_masters_downloaded_by_karbytes_17march2025.mp3 // 19.96 megabytes
+file_70: unintentional_asmr_senior_japanese_handcrafted_fountain_pen_masters_downloaded_by_karbytes_17march2025.mp3 // 19.96 megabytes
 
-file_68: shepardmadness_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_26march2025.mp3 // 9.20 megabytes
+file_71: shepardmadness_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_26march2025.mp3 // 9.20 megabytes
 
-file_69: asmr_girl_whimpering_downloaded_by_karbytes_27march2025.mp3 // 0.54 megabytes
+file_72: asmr_girl_whimpering_downloaded_by_karbytes_27march2025.mp3 // 0.54 megabytes
 
-file_70: chatgpt_karbytes_voicemode_16march2025.mp3 // 2.24 megabytes
+file_73: chatgpt_karbytes_voicemode_16march2025.mp3 // 2.24 megabytes
 
-file_71: sicko_mode_ft_drake_travis_scott_2018_downloaded_via_aiseo_by_karbytes_25january2025.mp3 // 4.93 megabytes
+file_74: sicko_mode_ft_drake_travis_scott_2018_downloaded_via_aiseo_by_karbytes_25january2025.mp3 // 4.93 megabytes
 
-file_72: plaintive_droning_by_karbytes_17march2025_p0.mp3 // 0.16 megabytes
+file_75: plaintive_droning_by_karbytes_17march2025_p0.mp3 // 0.16 megabytes
 
-file_73: medieval_village_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(animal_vocalizations_and_occasional_blacksmithing).mp3 // 9.21 megabytes
+file_76: medieval_village_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(animal_vocalizations_and_occasional_blacksmithing).mp3 // 9.21 megabytes
 
-file_74: sar_ibteeloob_cab_by_xibalba_released_1994_downloaded_by_karbytes_24june2025.mp3 // 5.49 megabytes
+file_77: sar_ibteeloob_cab_by_xibalba_released_1994_downloaded_by_karbytes_24june2025.mp3 // 5.49 megabytes
 
-file_75: chaos_by_pervertum_released_1995_downloaded_by_karbytes_24june2025.mp3 // 9.00 megabytes
+file_78: chaos_by_pervertum_released_1995_downloaded_by_karbytes_24june2025.mp3 // 9.00 megabytes
 
-file_76: the_aquatic_garden_of_extra_celestial_delights_shpongle_released_2013_downloaded_by_karbytes_29july2024.mp3 // 10.84 megabytes
+file_79: the_aquatic_garden_of_extra_celestial_delights_shpongle_released_2013_downloaded_by_karbytes_29july2024.mp3 // 10.84 megabytes
 
-file_77: deep_summer_spacetime_continuum_sound_13june2024.mp3 // 0.80 megabytes
+file_80: deep_summer_spacetime_continuum_sound_13june2024.mp3 // 0.80 megabytes
 
-file_78: pig_gorl_31august2024_p2.mp3 // 0.12 megabytes
+file_81: pig_gorl_31august2024_p2.mp3 // 0.12 megabytes
 
-file_79: pig_gorl_10_december_2023_part_1.mp3 // 0.11 megabytes
+file_82: pig_gorl_10_december_2023_part_1.mp3 // 0.11 megabytes
 
-file_80: train_san_jose_california_07october2024.mp3 // 0.31 megabytes
+file_83: train_san_jose_california_07october2024.mp3 // 0.31 megabytes
 
-file_81: abridged_keyboard_by_karbytes_use_case_13sep2024.mp3 // 0.33 megabytes
+file_84: abridged_keyboard_by_karbytes_use_case_13sep2024.mp3 // 0.33 megabytes
 
-file_82: pig_gorl_03_november_2023_part_1.mp3 // 0.55 megabytes
+file_85: pig_gorl_03_november_2023_part_1.mp3 // 0.55 megabytes
 
-file_83: pig_gorl_30_december_2023_bonus_recording.mp3 // 0.13 megabytes
+file_86: pig_gorl_30_december_2023_bonus_recording.mp3 // 0.13 megabytes
 
-file_84: unintentional_asmr_björk_takes_her_tv_apart_(icelandic_accent)_downloaded_by_karbytes_17march2025.mp3 // 4.88 megabytes
+file_87: unintentional_asmr_björk_takes_her_tv_apart_(icelandic_accent)_downloaded_by_karbytes_17march2025.mp3 // 4.88 megabytes
 
-file_85: abridged_keyboard_sonic_weapon_toy_26dec2024.mp3 // 2.08 megabytes
+file_88: abridged_keyboard_sonic_weapon_toy_26dec2024.mp3 // 2.08 megabytes
 
-file_86: baylands_alviso_san_jose_california_23jan2025_p6.mp3 // 0.26 megabytes
+file_89: baylands_alviso_san_jose_california_23jan2025_p6.mp3 // 0.26 megabytes
 
-file_87: instagram_karbytes_12_march_2024_post_255.mp3 // 1.63 megabytes
+file_90: instagram_karbytes_12_march_2024_post_255.mp3 // 1.63 megabytes
 
-file_88: pig_gorl_18january2025_p2.mp3 // 0.96 megabytes
+file_91: pig_gorl_18january2025_p2.mp3 // 0.96 megabytes
 
-file_89: monkey_national_anthem_16_february_2023.mp3 // 0.80 megabytes
+file_92: monkey_national_anthem_16_february_2023.mp3 // 0.80 megabytes
 
-file_90: pig_gorl_09_november_2023_part_0.mp3 // 0.36 megabytes
+file_93: pig_gorl_09_november_2023_part_0.mp3 // 0.36 megabytes
 
-file_91: freewill_startalk_march2025_downloaded_by_karbytes_30march2025.mp3 // 23.40 megabytes
+file_94: freewill_startalk_march2025_downloaded_by_karbytes_30march2025.mp3 // 23.40 megabytes
 
-file_92: for_a_glory_of_all_evil_spirits_rise_for_victory_by_mastiphal_released_1996_downloaded_by_karbytes_24june2025.mp3 // 8.47 megabytes
+file_95: for_a_glory_of_all_evil_spirits_rise_for_victory_by_mastiphal_released_1996_downloaded_by_karbytes_24june2025.mp3 // 8.47 megabytes
 
-file_93: pig_gorl_18_october_2023.mp3 // 1.35 megabytes
+file_96: pig_gorl_18_october_2023.mp3 // 1.35 megabytes
 
-file_94: drums_karbytes_05june2025.mp3 // 8.12 megabytes
+file_97: drums_karbytes_05june2025.mp3 // 8.12 megabytes
 
-file_95: pig_gorl_noises_part_1_06_july_2023.mp3 // 0.50 megabytes
+file_98: pig_gorl_noises_part_1_06_july_2023.mp3 // 0.50 megabytes
 
-file_96: protection_racket_by_napalm_death_released_2012_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3 // 3.55 megabytes
+file_99: protection_racket_by_napalm_death_released_2012_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3 // 3.55 megabytes
 
-file_97: instagram_karbytes_13_june_2023_part_0.mp3 // 3.45 megabytes
+file_100: instagram_karbytes_13_june_2023_part_0.mp3 // 3.45 megabytes
 
-file_98: pig_gorl_depiction_02_september_2023.mp3 // 0.62 megabytes
+file_101: pig_gorl_depiction_02_september_2023.mp3 // 0.62 megabytes
 
-file_99: pig_gorl_29_may_2023.mp3 // 0.27 megabytes
+file_102: pig_gorl_29_may_2023.mp3 // 0.27 megabytes
 
-file_100: pig_gorl_08_december_2023_part_1.mp3 // 0.71 megabytes
+file_103: pig_gorl_08_december_2023_part_1.mp3 // 0.71 megabytes
 
-file_101: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p0.mp3 // 0.99 megabytes
+file_104: asmr_pig_gorl_simpering_by_karbytes_27mar2025_p0.mp3 // 0.99 megabytes
 
-file_102: pig_gorl_18january2025_p1.mp3 // 0.31 megabytes
+file_105: pig_gorl_18january2025_p1.mp3 // 0.31 megabytes
 
-file_103: constellation_by_jim_oliver_from_healing_music_project:_radiance_[released:_13january2004].mp3 // 16.27 megabytes
+file_106: constellation_by_jim_oliver_from_healing_music_project:_radiance_[released:_13january2004].mp3 // 16.27 megabytes
 
-file_104: pig_gorl_10_january_2024_bonus_content.mp3 // 0.31 megabytes
+file_107: pig_gorl_10_january_2024_bonus_content.mp3 // 0.31 megabytes
 
-file_105: pig_gorl_06_january_2024_bonus_recording.mp3 // 0.47 megabytes
+file_108: pig_gorl_06_january_2024_bonus_recording.mp3 // 0.47 megabytes
 
-file_106: instagram_kabytes_02_june_2023.mp3 // 2.13 megabytes
+file_109: instagram_kabytes_02_june_2023.mp3 // 2.13 megabytes
 
-file_107: pig_gorl_09_november_2023_part_1.mp3 // 0.76 megabytes
+file_110: pig_gorl_09_november_2023_part_1.mp3 // 0.76 megabytes
 
-file_108: the_battle_fought_by_agrimonia_released_2013_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3 // 6.17 megabytes
+file_111: the_battle_fought_by_agrimonia_released_2013_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3 // 6.17 megabytes
 
-file_109: moonlight_sonata_[originally_named-_piano_sonata_No._14_in_C♯_minor_“Quasi una fantasia”]_by_ludwig_van_beethoven_released_1802_downloaded_by_karbytes_30march2025.mp3 // 13.73 megabytes
+file_112: moonlight_sonata_[originally_named-_piano_sonata_No._14_in_C♯_minor_“Quasi una fantasia”]_by_ludwig_van_beethoven_released_1802_downloaded_by_karbytes_30march2025.mp3 // 13.73 megabytes
 
-file_110: eagle_of_the_serpent_sun_from_winds_of_serpentine_ascension_by_into_oblivion_downloaded_by_karbytes_on_11april2024.mp3 // 17.70 megabytes
+file_113: eagle_of_the_serpent_sun_from_winds_of_serpentine_ascension_by_into_oblivion_downloaded_by_karbytes_on_11april2024.mp3 // 17.70 megabytes
 
-file_111: altars_of_forest_by_ahriman_released_1997_downloaded_by_karbytes_24june2025.mp3 // 7.74 megabytes
+file_114: altars_of_forest_by_ahriman_released_1997_downloaded_by_karbytes_24june2025.mp3 // 7.74 megabytes
 
-file_112: pig_gorl_noises_part_0_06_july_2023.mp3 // 0.56 megabytes
+file_115: pig_gorl_noises_part_0_06_july_2023.mp3 // 0.56 megabytes
 
-file_113: solfeggio_tones_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 4.58 megabytes
+file_116: solfeggio_tones_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 4.58 megabytes
 
-file_114: pig_gorl_02_april_2024_part_0.mp3 // 0.24 megabytes
+file_117: pig_gorl_02_april_2024_part_0.mp3 // 0.24 megabytes
 
-file_115: acoustic_guitar_sample_by_karbytes_08april2024.mp3 // 0.18 megabytes
+file_118: acoustic_guitar_sample_by_karbytes_08april2024.mp3 // 0.18 megabytes
 
-file_116: blackened_metallica_1988_downloaded_by_karbytes_21september2024.mp3 // 6.12 megabytes
+file_119: blackened_metallica_1988_downloaded_by_karbytes_21september2024.mp3 // 6.12 megabytes
 
-file_117: instagram_karbytes_12_march_2024_post_265.mp3 // 1.72 megabytes
+file_120: instagram_karbytes_12_march_2024_post_265.mp3 // 1.72 megabytes
 
-file_118: the_pilgrim_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(contemplative_instrumental).mp3 // 9.19 megabytes
+file_121: the_pilgrim_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(contemplative_instrumental).mp3 // 9.19 megabytes
 
-file_119: baylands_alviso_san_jose_california_23jan2025_p7.mp3 // 0.09 megabytes
+file_122: baylands_alviso_san_jose_california_23jan2025_p7.mp3 // 0.09 megabytes
 
-file_120: guitar_karbytes_29january2025.mp3 // 1.14 megabytes
+file_123: guitar_karbytes_29january2025.mp3 // 1.14 megabytes
 
-file_121: plaintive_droning_by_karbytes_17march2025_p1.mp3 // 0.18 megabytes
+file_124: plaintive_droning_by_karbytes_17march2025_p1.mp3 // 0.18 megabytes
 
-file_122: wind_of_the_black_mountains_by_forcefed_into_blasphemy_released_1992_downloaded_by_karbytes_24june2025.mp3 // 9.68 megabytes
+file_125: wind_of_the_black_mountains_by_forcefed_into_blasphemy_released_1992_downloaded_by_karbytes_24june2025.mp3 // 9.68 megabytes
 
-file_123: pig_gorl_30_october_2023_part_2.mp3 // 0.52 megabytes
+file_126: pig_gorl_30_october_2023_part_2.mp3 // 0.52 megabytes
 
-file_124: baylands_fremont_california_21march2025_p23.mp3 // 1.23 megabytes
+file_127: baylands_fremont_california_21march2025_p23.mp3 // 1.23 megabytes
 
-file_125: drums_karbytes_08march2025.mp3 // 6.56 megabytes
+file_128: drums_karbytes_08march2025.mp3 // 6.56 megabytes
 
-file_126: instagram_karbytes_12_march_2024_post_197.mp3 // 0.39 megabytes
+file_129: instagram_karbytes_12_march_2024_post_197.mp3 // 0.39 megabytes
 
-file_127: kingdom_of_shadows_by_crimson_moon_downloaded_by_karbytes_24june2025.mp3 // 8.41 megabytes
+file_130: kingdom_of_shadows_by_crimson_moon_downloaded_by_karbytes_24june2025.mp3 // 8.41 megabytes
 
-file_128: unlock_akashic_records_💫_remember_mastery_🌈_ultra_shamanic_drums_[abridged_to_ten_minutes]_lokosmotives_2018_downloaded_by_karbytes_27september2024.mp3 // 9.16 megabytes
+file_131: unlock_akashic_records_💫_remember_mastery_🌈_ultra_shamanic_drums_[abridged_to_ten_minutes]_lokosmotives_2018_downloaded_by_karbytes_27september2024.mp3 // 9.16 megabytes
 
-file_129: merced_manure_sound_files_karlina_beringer_2008_to_2009_track_0_retrieved_on_24_december_2023_[clock_shatter].mp3 // 3.17 megabytes
+file_132: merced_manure_sound_files_karlina_beringer_2008_to_2009_track_0_retrieved_on_24_december_2023_[clock_shatter].mp3 // 3.17 megabytes
 
-file_130: medieval_library_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 9.19 megabytes
+file_133: medieval_library_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 9.19 megabytes
 
-file_131: amplifier_original_mix_(hardtrance_1995)_by_macrocosm_downloaded_by_karbytes_26march2025.mp3 // 9.25 megabytes
+file_134: amplifier_original_mix_(hardtrance_1995)_by_macrocosm_downloaded_by_karbytes_26march2025.mp3 // 9.25 megabytes
 
-file_132: healing_water_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 4.58 megabytes
+file_135: healing_water_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3 // 4.58 megabytes
 
-file_133: guitar_karbytes_08march2025.mp3 // 2.57 megabytes
+file_136: guitar_karbytes_08march2025.mp3 // 2.57 megabytes
 
-file_134: vintage_office_sounds_from_mynoise_dot_net_downloaded_by_karbytes_21december2024.mp3 // 4.58 megabytes
+file_137: vintage_office_sounds_from_mynoise_dot_net_downloaded_by_karbytes_21december2024.mp3 // 4.58 megabytes
 
-file_135: instagram_karbytes_13_june_2023_part_2.mp3 // 1.46 megabytes
+file_138: instagram_karbytes_13_june_2023_part_2.mp3 // 1.46 megabytes
 
-file_136: pig_gorl_named_jasmine_08_july_2023.mp3 // 0.63 megabytes
+file_139: pig_gorl_named_jasmine_08_july_2023.mp3 // 0.63 megabytes
 
-file_137: pig_gorl_09_november_2023_part_2.mp3 // 0.32 megabytes
+file_140: pig_gorl_09_november_2023_part_2.mp3 // 0.32 megabytes
 
-file_138: plaintive_droning_by_karbytes_17march2025_p2.mp3 // 0.23 megabytes
+file_141: plaintive_droning_by_karbytes_17march2025_p2.mp3 // 0.23 megabytes
 
-file_139: bordered_container.css // 0.00 megabytes
+file_142: bordered_container.css // 0.00 megabytes
 
-file_140: unintentional_asmr_relaxing_repair_&_restoration_of_vintage_guitar_amps_downloaded_by_karbytes_17march2025.mp3 // 23.08 megabytes
+file_143: unintentional_asmr_relaxing_repair_&_restoration_of_vintage_guitar_amps_downloaded_by_karbytes_17march2025.mp3 // 23.08 megabytes
 
-file_141: elevenlabs_text_to_speech_generation_05aug2024.mp3 // 0.03 megabytes
+file_144: elevenlabs_text_to_speech_generation_05aug2024.mp3 // 0.03 megabytes
 
-file_142: pyramid_meditation_music_kings_chamber_frequencies_[downloaded_from_magnetic_minds_by_karbytes_on_16june2024].mp3 // 18.31 megabytes
+file_145: pyramid_meditation_music_kings_chamber_frequencies_[downloaded_from_magnetic_minds_by_karbytes_on_16june2024].mp3 // 18.31 megabytes
 
 --------------------------------
 
-Total number of files: 143
+Total number of files: 146
 
-Total folder size: 453.07 megabytes
+Total folder size: 453.09 megabytes
 
 --------------------------------
