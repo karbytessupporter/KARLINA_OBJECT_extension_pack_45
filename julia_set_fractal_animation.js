@@ -9,7 +9,8 @@
 /***************************************************************
  * Note that this JavaScript file's contents can be 
  * copy-pasted into a <script> element placed at the 
- * bottom of the <body> element of julia_set_fractal.html.
+ * bottom of the <body> element of julia_set_fractal.html
+ * (while replacing the script element which links to this file).
  **************************************************************/
 
 // global program variables
