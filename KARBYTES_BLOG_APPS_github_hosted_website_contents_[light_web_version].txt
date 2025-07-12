@@ -1,0 +1,199 @@
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website
+
+file_0: index.html // 0.02 megabytes
+
+file_1: LICENSE // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/RANDOM_GRAPH_GENERATOR
+
+file_2: karbytes_aesthetic.css // 0.00 megabytes
+
+file_3: random_graph_generator.html // 0.00 megabytes
+
+file_4: random_graph_generator.js // 0.02 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/BASE_CONVERTER
+
+file_5: karbytes_aesthetic.css // 0.00 megabytes
+
+file_6: base_converter_arithmetic.js // 0.01 megabytes
+
+file_7: base_converter.html // 0.00 megabytes
+
+file_8: base_converter_interface.js // 0.03 megabytes
+
+file_9: time_stamp.js // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/WORD_COUNTER
+
+file_10: karbytes_aesthetic.css // 0.00 megabytes
+
+file_11: word_counter.html // 0.00 megabytes
+
+file_12: word_counter.js // 0.01 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/SOUND_TRACK_LOOP_COUNTER_TWO
+
+file_13: drums_karbytes_10_september_2023_part_0.mp3 // 3.64 megabytes
+
+file_14: karbytes_aesthetic.css // 0.00 megabytes
+
+file_15: guitar_karbytes_20august2024.mp3 // 0.38 megabytes
+
+file_16: karbytes_drums_20_october_2023.mp3 // 3.06 megabytes
+
+file_17: karbytes_guitar_castro_valley_california_12_december_2022.mp3 // 1.11 megabytes
+
+file_18: karbytes_guitar_13_may_2023.mp3 // 4.65 megabytes
+
+file_19: guitar_karbytes_13july2024.mp3 // 0.89 megabytes
+
+file_20: karbytes_guitar_07_june_2023.mp3 // 3.47 megabytes
+
+file_21: sound_track_looper_two.html // 0.00 megabytes
+
+file_22: coyote_vocalizations_01_july_2023.mp3 // 0.86 megabytes
+
+file_23: karbytes_drums_castro_valley_california_12_december_2022.mp3 // 4.20 megabytes
+
+file_24: frogs_croaking_in_castro_valley_california_21_april_2022.mp3 // 0.57 megabytes
+
+file_25: karbytes_guitar_16_october_2023.mp3 // 0.81 megabytes
+
+file_26: bordered_container.css // 0.00 megabytes
+
+file_27: sound_track_looper_two.js // 0.01 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/ABRIDGED_KEYBOARD_MUSICAL_INSTRUMENT
+
+file_28: karbytes_aesthetic.css // 0.00 megabytes
+
+file_29: abridged_keyboard_musical_instrument.js // 0.01 megabytes
+
+file_30: abridged_keyboard_musical_instrument.html // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/HEXIDECIMAL_COLOR_CODES
+
+file_31: karbytes_aesthetic.css // 0.00 megabytes
+
+file_32: hexidecimal_color_codes.html // 0.00 megabytes
+
+file_33: hexidecimal_color_codes.js // 0.02 megabytes
+
+file_34: time_stamp.js // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/BITS_AND_BYTES
+
+file_35: karbytes_aesthetic.css // 0.00 megabytes
+
+file_36: light_bulb_off.png // 0.14 megabytes
+
+file_37: light_bulb_on.png // 0.23 megabytes
+
+file_38: binary_to_decimal.html // 0.01 megabytes
+
+file_39: binary_to_decimal.js // 0.01 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/BEATS_MACHINE
+
+file_40: karbytes_aesthetic.css // 0.00 megabytes
+
+file_41: beats_machine.js // 0.02 megabytes
+
+file_42: beats_machine.html // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/PI_APPROXIMATION
+
+file_43: karbytes_aesthetic.css // 0.00 megabytes
+
+file_44: pi_approximation.js // 0.02 megabytes
+
+file_45: pi_approximation.html // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/PROBABILITY
+
+file_46: karbytes_aesthetic.css // 0.00 megabytes
+
+file_47: probability.html // 0.00 megabytes
+
+file_48: probability.js // 0.04 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/JULIA_SET_FRACTAL_ANIMATION
+
+file_49: julia_set_fractal_animation.html // 0.00 megabytes
+
+file_50: julia_set_fractal_animation.js // 0.01 megabytes
+
+file_51: julia_set_fractal_animation.css // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/SOUND_TRACK_LOOP_COUNTER
+
+file_52: drums_karbytes_10_september_2023_part_0.mp3 // 3.64 megabytes
+
+file_53: karbytes_aesthetic.css // 0.00 megabytes
+
+file_54: guitar_karbytes_20august2024.mp3 // 0.38 megabytes
+
+file_55: karbytes_drums_20_october_2023.mp3 // 3.06 megabytes
+
+file_56: karbytes_guitar_13_may_2023.mp3 // 4.65 megabytes
+
+file_57: guitar_karbytes_13july2024.mp3 // 0.89 megabytes
+
+file_58: karbytes_guitar_07_june_2023.mp3 // 3.47 megabytes
+
+file_59: sound_track_looper.js // 0.01 megabytes
+
+file_60: coyote_vocalizations_01_july_2023.mp3 // 0.86 megabytes
+
+file_61: karbytes_drums_castro_valley_california_12_december_2022.mp3 // 4.20 megabytes
+
+file_62: frogs_croaking_in_castro_valley_california_21_april_2022.mp3 // 0.57 megabytes
+
+file_63: karbytes_guitar_16_october_2023.mp3 // 0.81 megabytes
+
+file_64: bordered_container.css // 0.00 megabytes
+
+file_65: sound_track_looper.html // 0.00 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/TRIANGLE_GRAPHING
+
+file_66: karbytes_aesthetic.css // 0.00 megabytes
+
+file_67: triangle_graphing.html // 0.00 megabytes
+
+file_68: triangle_graphing.js // 0.05 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/TRIANGLE_GRAPHING_TWO
+
+file_69: karbytes_aesthetic.css // 0.00 megabytes
+
+file_70: triangle_graphing_two.html // 0.00 megabytes
+
+file_71: triangle_graphing_two.js // 0.04 megabytes
+
+Directory: KARBYTES_BLOG_APPS_github_hosted_website/COUNT_DOWN_TIMER
+
+file_72: karbytes_aesthetic.css // 0.00 megabytes
+
+file_73: count_down_timer.js // 0.01 megabytes
+
+file_74: alert_sound_effect.wav // 0.31 megabytes
+
+file_75: count_down_timer.html // 0.00 megabytes
+
+file_76: time_stamp.js // 0.00 megabytes
+
+--------------------------------
+
+Total number of files: 77
+
+Total folder size: 47.26 megabytes
+
+--------------------------------
