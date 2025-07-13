@@ -42,4 +42,4 @@ Show a time lapse of the scene rapidly changing from morning to midday to evenin
 
 sora:
 
-[result: ]
+[result: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/sora_generated_video_baylands_warehouses_timelapse_13july2025.mp4]
