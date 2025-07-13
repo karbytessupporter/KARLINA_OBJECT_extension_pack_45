@@ -1,0 +1,45 @@
+/**
+ * file: sora_karbytes_13july2025_p0.txt
+ * type: plain-text
+ * date: 13_JUNE_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of prompts which karbytes submitted to Sora (which karbytes accessed via its ChatGPT Plus account) in order to generate short videos between the points in time labeled 11:59PM Pacific Standard Time on 12_JULY_2025 and 11:59PM Pacific Standard Time on 13_JULY_2025. The three prompts which are featured in this transcript are utilized still photographic images which karbytes generated with its Android Galaxy A03s phone camera.
+
+* * *
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_39/main/las_trampas_san_ramon_california_15may2025_p7.jpg]
+
+Fly down the hill along the path.
+
+sora:
+
+[result: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/sora_generated_video_golden_hour_hillside_13july2025.mp4]
+
+* * *
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_42/main/las_trampas_walnut_creek_california_08june2025_p0.jpg]
+
+Fly forward along the path.
+
+sora:
+
+[result: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/sora_generated_video_sunset_path_hills_13july2025.mp4]
+
+* * *
+
+karbytes:
+
+[uploaded_image: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_22/main/baylands_fremont_california_20august2024_p1.jpg]
+
+Show a time lapse of the scene rapidly changing from morning to midday to evening.
+
+sora:
+
+[result: ]
